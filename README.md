@@ -1,7 +1,7 @@
 
-# Repositório do Curso de CI/CD
+# Repositório da Disciplina de CI/CD da PUC Minas
 
-Bem-vindo ao repositório do curso de CI/CD! Este repositório contém materiais e exemplos utilizados ao longo do curso para demonstrar diversos conceitos e práticas de CI/CD.
+Bem-vindo ao repositório da disciplina de CI/CD! Este repositório contém materiais e exemplos utilizados ao longo do curso para demonstrar diversos conceitos e práticas de CI/CD.
 
 ## Estrutura
 
@@ -32,8 +32,8 @@ Os exemplos não devem ser usados em ambientes de desenvolvimento ou produção.
 
 ## Contato
 
-Para qualquer dúvida ou informações adicionais, entre em contato através da plataforma do nosso curso no Canvas.
+Para qualquer dúvida ou informações adicionais, entre em contato comigo através da plataforma do nosso curso no Canvas.
 
 ---
 
-Bom aprendizado!
+Bons estudos e bons aprendizados!
