@@ -1,0 +1,7 @@
+| **Produto**               | **O que representa**                                                                                  | **Página**                                               |
+|---------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| Visão Geral do GitLab CI/CD | Página que fornece uma visão geral sobre as funcionalidades de CI/CD do GitLab, permitindo a automação completa de builds, testes e deploys. | [GitLab CI/CD](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) |
+| Pipelines de CI/CD         | Configuração de pipelines automatizados que incluem etapas de build, teste e deploy para garantir qualidade e integração contínua. | [Pipelines do GitLab](https://docs.gitlab.com/ee/ci/pipelines/) |
+| GitLab Runners             | Ferramentas que executam os jobs de CI/CD, podendo ser hospedados em máquinas locais ou na nuvem.     | [GitLab Runners](https://docs.gitlab.com/runner/)        |
+| Artefatos e Cache          | Armazenamento e compartilhamento de arquivos e resultados de builds entre jobs, otimizando a eficiência dos pipelines. | [Artefatos e Cache](https://docs.gitlab.com/ee/ci/pipelines/job_artifacts.html) |
+| Integração com Ferramentas Externas | Integração de pipelines de CI/CD com outros serviços e ferramentas, como Kubernetes, AWS, Google Cloud, e mais. | [Integrações CI/CD](https://docs.gitlab.com/ee/ci/cloud_services/) |

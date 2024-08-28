@@ -1,0 +1,12 @@
+| **Produto**               | **O que representa**                                                                                  | **Página**                                               |
+|---------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| Visão Geral do GitHub      | Página que fornece uma visão geral sobre a plataforma GitHub e seus principais recursos e funcionalidades. | [Visão Geral do GitHub](https://github.com/about)        |
+| GitHub Repositories        | Armazenamento e gerenciamento de código-fonte, controle de versão e colaboração em projetos.         | [GitHub Repositories](https://docs.github.com/pt/repositories)               |
+| GitHub Actions             | Plataforma de automação para CI/CD, permitindo a execução de fluxos de trabalho automatizados diretamente nos repositórios. | [GitHub Actions](https://github.com/features/actions)    |
+| GitHub Packages            | Serviço para gerenciamento e distribuição de pacotes, integrado aos repositórios GitHub.             | [GitHub Packages](https://github.com/features/packages)  |
+| GitHub Pages               | Serviço de hospedagem de sites estáticos diretamente a partir dos repositórios GitHub.               | [GitHub Pages](https://pages.github.com/)                |
+| GitHub Security            | Conjunto de ferramentas de segurança, incluindo Code Scanning, Secret Scanning e Dependabot, para identificar e mitigar vulnerabilidades. | [GitHub Security](https://github.com/features/security)  |
+| GitHub Codespaces          | Ambientes de desenvolvimento integrados na nuvem, que podem ser configurados instantaneamente para qualquer projeto. | [GitHub Codespaces](https://github.com/features/codespaces) |
+| GitHub Copilot             | Ferramenta de inteligência artificial que sugere código em tempo real enquanto o desenvolvedor digita. | [GitHub Copilot](https://github.com/features/copilot)    |
+| GitHub Marketplace         | Repositório de ferramentas e extensões, incluindo ações e apps que podem ser integrados aos repositórios. | [GitHub Marketplace](https://github.com/marketplace)     |
+| GitHub Discussions         | Plataforma integrada para conversas e discussões em torno dos projetos, promovendo o engajamento da comunidade. | [GitHub Discussions](https://github.com/features/discussions) |
